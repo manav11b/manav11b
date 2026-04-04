@@ -146,10 +146,10 @@ me.say_hi()
 |---|---|
 | Networking Basics | Cisco |
 | Machine Learning with Python (V2) | IBM / Coursera |
-| Production Machine Learning Systems | Google |
-| Data Science — Mastering the Fundamentals | — |
+| Production Machine Learning Systems | Google / Coursera |
+| Data Science — Mastering the Fundamentals | Scalar |
 | Convolutional Neural Networks | — |
-| Fundamentals of CNN | Great Learning |
+| Fundamentals of DL | NVIDIA |
 
 ---
 
@@ -157,8 +157,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manavborkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavborkar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manav11b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav11b&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 <br/>
 
