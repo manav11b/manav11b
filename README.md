@@ -148,7 +148,6 @@ me.say_hi()
 | Machine Learning with Python (V2) | IBM / Coursera |
 | Production Machine Learning Systems | Google / Coursera |
 | Data Science — Mastering the Fundamentals | Scalar |
-| Convolutional Neural Networks | — |
 | Fundamentals of DL | NVIDIA |
 
 ---
