@@ -153,21 +153,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manav11b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav11b&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=manavborkar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌐 Networking Know-How
 
 > Because great developers understand the full stack — including the *actual* stack.
