@@ -146,10 +146,10 @@ me.say_hi()
 | 🏅 Certification | 🏛️ Issuer | 🔗Link |
 |---|---|---|
 | Networking Basics | Cisco | [View Certificate](./certificates/NetworkingBasicsUpdate20260410-33-u1kbzi.pdf)|
-| Machine Learning with Python (V2) | IBM / Coursera | [View Certificate]certificates/IBMDesign20260410-33-ao7nuv.pdf) | 
-| Production Machine Learning Systems | Google / Coursera |
-| Data Science — Mastering the Fundamentals | Scalar |
-| Fundamentals of DL | NVIDIA |
+| Machine Learning with Python (V2) | IBM / Coursera | [View Certificate](./certificates/IBMDesign20260410-33-ao7nuv.pdf) | 
+| Production Machine Learning Systems | Google / Coursera | [View Certificate](./certificates/production machine learning systems.pdf)|
+| Data Science — Mastering the Fundamentals | Scalar | [View Certificate](./certificates/Data_Science_Fundamentals.jpg) |
+| Fundamentals of DL | NVIDIA | [View Certificate](./certificates/Certificate%20_%20NVIDIA%20Manav.pdf) |
 
 ---
 
